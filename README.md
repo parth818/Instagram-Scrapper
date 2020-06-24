@@ -1,7 +1,7 @@
 # Instagram-Scrapper
 
 ->This project scraps the popular social media site "www.instagram.com" for images and videos based on the public username and the number of scrolls provided as parameters.
-It also process the Video and Corousel links to get Videos and distinct posts within a Corousel. 
+It also process the Video and carousel links to get Videos and distinct posts within a Corousel. 
 </br></br>
 ->The scrapped data is saved in a folder with name as 'username' provided initially in the 'Outputs' directory.
 </br></br>
@@ -11,6 +11,6 @@ It also process the Video and Corousel links to get Videos and distinct posts wi
 </br></br>
 ->A sample video for working of this project can be found <a href="https://drive.google.com/file/d/1A3IMTJSjedW-y5S5V5rPopEvHh3-ciDy/view?usp=sharing">here</a>.
 </br></br>
--><i>*NOTE : some 'tqdm' widgets load only at runtime and hence can only be seen in the pdf attached.</i>
+-><i>*NOTE : some 'tqdm' widgets load only at runtime.</i>
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
