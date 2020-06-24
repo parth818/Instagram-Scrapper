@@ -10,5 +10,7 @@ It also process the Video and Corousel links to get Videos and distinct posts wi
 ->Some sample scrapped data is being attached here within the 'Outputs' directory.
 </br></br>
 ->A sample video for working of this project can be found <a href="https://drive.google.com/file/d/1A3IMTJSjedW-y5S5V5rPopEvHh3-ciDy/view?usp=sharing">here</a>.
+</br></br>
+-><i>*NOTE : some 'tqdm' widgets load only at runtime and hence can only be seen in the pdf thus added.</i>
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
